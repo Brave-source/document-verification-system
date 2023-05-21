@@ -21,7 +21,7 @@ This project aims to create a secure and decentralized system for document verif
 ## Installation
 
 1. Clone this repository: 
-``https://github.com/DevAloshe/BlockChain-Based-Documents-Verfication-System-With-IPFS-main``
+``https://github.com/Brave-source/document-verification-system.git``
 
 
 2. Install the required packages:
